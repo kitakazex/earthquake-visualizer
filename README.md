@@ -47,3 +47,6 @@ Using a virtual environment helps prevent dependency conflicts with other Python
 
 - Streamlit を初めて使う場合は、実行後に表示される URL（通常は `http://localhost:8501`）をブラウザで開いてください。
 If you're new to Streamlit, open the displayed URL (usually `http://localhost:8501`) in your browser after running.
+
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://kitakazex-streamlit-earthquake-visualizer.streamlit.app/)
