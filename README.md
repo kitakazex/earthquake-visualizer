@@ -5,7 +5,7 @@
 ## 使い方（ローカル実行）
 
 ```bash
-git clone https://github.com/your-username/earthquake-visualizer.git
+git clone https://github.com/kitakazex/earthquake-visualizer.git
 cd earthquake-visualizer
 pip install -r requirements.txt
 streamlit run app.py
