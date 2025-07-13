@@ -45,5 +45,5 @@ streamlit run app.py
 - 仮想環境を利用することで、他の Python プロジェクトとの依存関係の競合を防ぐことができます。
 Using a virtual environment helps prevent dependency conflicts with other Python projects.
 
-- Streamlit を初めて使う場合は、実行後に表示される URL（通常は http://localhost:8501）をブラウザで開いてください。
-If you're new to Streamlit, open the displayed URL (usually http://localhost:8501) in your browser after running.
+- Streamlit を初めて使う場合は、実行後に表示される URL（通常は `http://localhost:8501`）をブラウザで開いてください。
+If you're new to Streamlit, open the displayed URL (usually `http://localhost:8501`) in your browser after running.
