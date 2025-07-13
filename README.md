@@ -49,4 +49,3 @@ Using a virtual environment helps prevent dependency conflicts with other Python
 If you're new to Streamlit, open the displayed URL (usually `http://localhost:8501`) in your browser after running.
 
 👉 [こちらからアプリを開く](https://earthquake-visualizer-yhys4qb9ubapzmpatdqdcm.streamlit.app/)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://earthquake-visualizer-yhys4qb9ubapzmpatdqdcm.streamlit.app/)
